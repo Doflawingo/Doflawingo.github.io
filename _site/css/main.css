@@ -340,12 +340,12 @@ code {
 .site-name__inner {
   position: absolute;
   top: 150px;
-  width: 100% !important;
+  width: 100%;
   right: -30px;
   }
 
 .site-name__inner .name {
-  font-size: 50px !important;
+  font-size: 50px;
   font-family: 'Source Sans Pro', sans-serif; }
 
 .site-name__inner .desc {
