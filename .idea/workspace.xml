@@ -175,6 +175,13 @@
             <path>
               <item name="Doflawingo.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Doflawingo.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="imgs" type="462c0819:PsiDirectoryNode" />
+              <item name="2018-12-25" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Doflawingo.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Doflawingo.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_site" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -219,7 +226,7 @@
       <updated>1545907300948</updated>
       <workItem from="1545907302547" duration="355000" />
       <workItem from="1545907668834" duration="2689000" />
-      <workItem from="1545915609281" duration="2425000" />
+      <workItem from="1545915609281" duration="3033000" />
     </task>
     <task id="LOCAL-00001" summary="字体样式调整">
       <created>1545907809316</created>
@@ -260,7 +267,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5469000" />
+    <option name="totallyTimeSpent" value="6077000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -296,7 +303,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
           <caret line="28" column="33" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
