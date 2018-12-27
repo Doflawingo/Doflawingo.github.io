@@ -226,7 +226,7 @@
       <updated>1545907300948</updated>
       <workItem from="1545907302547" duration="355000" />
       <workItem from="1545907668834" duration="2689000" />
-      <workItem from="1545915609281" duration="3033000" />
+      <workItem from="1545915609281" duration="3291000" />
     </task>
     <task id="LOCAL-00001" summary="字体样式调整">
       <created>1545907809316</created>
@@ -267,7 +267,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6077000" />
+    <option name="totallyTimeSpent" value="6335000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
